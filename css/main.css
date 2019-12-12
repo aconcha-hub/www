@@ -98,8 +98,66 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body{
-  font-family:'Roboto Condensed', sans-serif;
+
+
+  background: #E3E1E6;
+  font-family: Gupter;
 }
+
+
+#health nav 
+
+{
+
+
+  width: 140%;
+  height: 80px;
+  background: #B8DFE8;
+}
+
+.uno
+
+{
+width: 50%;
+  height: 50%;
+  margin-left: 30px;
+}
+
+.uno
+
+{
+width: 50%;
+  height: 50%;
+  margin-left: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -213,7 +271,6 @@ body{
     background: transparent !important;
     color: #000 !important;
     /* Black prints faster */
-    -webkit-box-shadow: none !important;
     box-shadow: none !important;
     text-shadow: none !important;
   }
